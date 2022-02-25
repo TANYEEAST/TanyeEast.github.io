@@ -4,6 +4,23 @@
 
 Xin Tan
 
+
+<table border="0">
+  <tr>
+    <td width="75%">
+      <h1>tx</h1>
+      <p><b>b.eng</b></p>
+      <p><b>××</b></p>
+      <p><b>mail：1234567789@qq.com</b></p>
+      <p><b>address：xx</b></p>
+    </td>
+    <td width="25%">
+      <img src="/selfie_tx.jpg" width="100%">      % 插入证件照代码
+    </td>
+  </tr>
+</table>
+
+
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
 ### Jekyll Themes
